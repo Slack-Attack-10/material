@@ -6,3 +6,4 @@
 
 ## UI Basics
 - [HTML](https://github.com/Slack-Attack-10/html)
+- [CSS](https://github.com/Slack-Attack-10/css)
