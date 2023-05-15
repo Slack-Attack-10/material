@@ -12,6 +12,9 @@
 ## Programming Basics
 - [Livecoding Carsten](https://github.com/Slack-Attack-10/livecoding_pb_carsten)
 
+- [Advanced Array Methods Live Code](https://github.com/Slack-Attack-10/AdvancedArrayMethods)
+
+
 
 # Tools
 
