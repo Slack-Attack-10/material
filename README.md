@@ -13,6 +13,8 @@
 - [Livecoding Carsten](https://github.com/Slack-Attack-10/livecoding_pb_carsten)
 
 - [Advanced Array Methods Live Code](https://github.com/Slack-Attack-10/AdvancedArrayMethods)
+- [Recursion Live Code](https://github.com/Slack-Attack-10/RecusionLiveCoding)
+- [Classes](https://github.com/Slack-Attack-10/ClassesLiveCoding)
 
 
 
